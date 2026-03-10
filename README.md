@@ -1,1 +1,2 @@
-# Exceptional--B
+# Hi i'm Benedict
+I'm **Multipotentialite**dedicated to mastering the intersection of Cloud Infrastructure and Artificial Intelligence. Currently in my 300th level of Computer Science, I am building a foundation in DevOps through hands-on practice and technical documentation.
